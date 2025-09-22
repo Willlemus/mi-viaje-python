@@ -1,0 +1,3 @@
+variable = "hola"
+
+print(Hola)
